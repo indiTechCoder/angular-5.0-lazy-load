@@ -1,5 +1,5 @@
-# angular2-lazy-load-example
-Angular 2 lazy load example
+# angular-5-lazy-load-example
+Angular 5 lazy load example
 
 ## How run run the application
 
